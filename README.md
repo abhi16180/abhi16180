@@ -1,4 +1,4 @@
-# AbhilashHegde
+# Abhilash Hegde
 
 <p align="center">
 <img src="nebula.png" alt="image" width="175"/><br>
