@@ -1,7 +1,7 @@
 # AbhilashHegde
 
 <p align="center">
-<img src="helix.png" alt="image" width="120"/><br>
+<img src="nebula.png" alt="image" width="120"/><br>
 </p> <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abhi16180&theme=dark" height="230">
