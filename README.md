@@ -1,7 +1,7 @@
 # AbhilashHegde
 
 <p align="center">
-<img src="photo_2021-09-06_12-30-11.jpg" alt="image" width="120"/><br>
+<img src="helix.png" alt="image" width="120"/><br>
 </p> <br>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=abhi16180&theme=dark">
