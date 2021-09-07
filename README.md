@@ -9,7 +9,7 @@
 <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi16180&hide=Makefile&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi16180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi16180&theme=dark" />
 <br>
 [![Abhilash Hegde's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhi16180&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
