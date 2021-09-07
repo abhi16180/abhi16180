@@ -7,7 +7,7 @@
 
 [![Abhilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi16180&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi16180&hide=Makefile&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi16180&hide=Makefile&theme=dark)]
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi16180" />
 <br>
