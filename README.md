@@ -12,6 +12,7 @@
 <br>
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=abhi16180&theme=react-dark">
+![](https://komarev.com/ghpvc/?username=abhi16180)
 </p> <br>
 
 
